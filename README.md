@@ -1,2 +1,3 @@
-# super-data-visualizer-wcka
-A data visualization tool for modern development workflows
+# Super Data Visualizer Wcka
+
+A data visualization tool for modern development workflows.
